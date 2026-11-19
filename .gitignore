@@ -1,0 +1,12 @@
+# Archivos de historial exportados
+Historial_*.csv
+*.csv
+
+# Bases de datos temporales y scripts SQL generados en ejecución
+temp_db_*.db
+instrucciones*.sql
+*.db
+
+# Archivos del sistema (Windows)
+Thumbs.db
+desktop.ini
